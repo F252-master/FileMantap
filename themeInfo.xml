@@ -1,0 +1,80 @@
+﻿<OppoSmartPhoneThemeInfo>
+  <Author>Rizaldy Korompis</Author>
+  <Summary>BlackShark by Sobat Realme</Summary>
+  <Description>Dapatkan Tema Premium Keren Lainnya di Blog www.sobatrealme.blogspot.com</Description>
+  <Scale>0.75</Scale>
+  <XOffsetPCT>0.00</XOffsetPCT>
+  <YOffsetPCT>0.00</YOffsetPCT>
+  <LastModifyTime>2018</LastModifyTime>
+  <EditorVersion>804</EditorVersion>
+  <IsGlobalTheme>5</IsGlobalTheme>
+  <LanguageType>5</LanguageType>
+  <EditorName>5.0</EditorName>
+  <UUID>4</UUID>
+  <PackageName>4</PackageName>
+  <VersionName>3.0</VersionName>
+  <VersionCode>6</VersionCode>
+	<packageInfo>
+   <package name="com.oppo.camera.filter"/>
+   <package name="com.oppo.camera"/>
+		<package name="oppo-framework-res" />
+   <package name="com.facebook.katana" />
+   <package name="com.facebook.orca" />
+		<package name="com.oppo.launcher"/>
+		<package name="icons"/>
+		<package name="com.android.contacts"/>
+		<package name="com.coloros.providers.downloads.ui" />
+		<package name="com.android.mms"/>
+		<package name="com.coloros.gesture"/>
+   <package name="com.coloros.compass"/>
+		<package name="com.android.systemui"/>
+		<package name="com.android.settings"/>
+		<package name="com.android.phone"/>
+		<package name="com.oppo.dirac"/>
+		<package name="com.coloros.wirelesssettings"/>
+		<package name="com.coloros.safecenter"/>
+		<package name="com.android.quicksearchbox"/>
+		<package name="com.oppo.music"/>
+		<package name="com.android.calculator2"/>
+		<package name="com.coloros.gallery3d"/>
+		<package name="com.coloros.video"/>
+		<package name="com.oppo.camera"/>
+		<package name="com.oppo.operationManual" />
+		<package name="com.android.stk" />
+		<package name="com.android.systemui" />
+   <package name="com.android.browser" />
+   <package name="com.android.calendar" />
+   <package name="com.nearme.ocloud" />
+		<package name="com.coloros.filemanager" />
+		<package name="com.coloros.oppoguardelf" />
+		<package name="com.coloros.alarmclock" />
+		<package name="com.coloros.simsettings" />
+		<package name="com.coloros.notificationmanager" />         
+		<package name="com.coloros.blacklist"/>
+		<package name="com.coloros.fingerprint"/>
+		<package name="com.coloros.pictorial"/>
+		<package name="com.coloros.weather" />
+		<package name="com.oppoex.afterservice" />
+		<package name="com.coloros.activation" />
+		<package name="com.coloros.backuprestore" />
+		<package name="com.android.cellbroadcastreceiver" />
+		<package name="com.coloros.keyguard.notification" />
+		<package name="com.coloros.wallpapers" />
+		<package name="com.android.fmradio" />
+		<package name="com.coloros.soundrecorder" />
+		<package name="com.oppo.ota" />
+		<package name="com.android.keyguard" />
+		<package name="com.android.providers.downloads" />
+		<package name="com.nearme.ocloud" />
+		<package name="com.oppo.camera.filter" />
+   <package name="com.google.android.youtube" />
+   <package name="com.android.vending" />
+   <package name="com.whatsapp" />
+   <package name="com.bbm" />
+   <package name="com.instagram.android" />
+	</packageInfo>
+	<resolutionInfo>
+		<resolution>1920*1080</resolution>
+		<resolution>960*540</resolution>
+	</resolutionInfo>
+</OppoSmartPhoneThemeInfo>
